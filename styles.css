@@ -56,3 +56,16 @@ a:link{
 p{
     margin:20px;
 }
+
+.blog-post{
+    background-color:white;
+    margin:10px;
+    border-color:#AFAEAE;
+    padding:10px;
+    border-radius:5px;
+}
+
+img{
+    float:left;
+    margin:10px;
+}
